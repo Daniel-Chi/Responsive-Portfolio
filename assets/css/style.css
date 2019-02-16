@@ -153,3 +153,13 @@ input[type=submit] {
     bottom: 150px;
     z-index: 0;
 }
+
+@media only screen and (max-width: 979px) {
+
+}
+@media only screen and (max-width: 767px) {
+    
+}
+@media only screen and (max-width: 639px) {
+    
+}
